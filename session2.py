@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 def func(a,b):
-    return "holaaa"
+    return "hello"
 
 
 
